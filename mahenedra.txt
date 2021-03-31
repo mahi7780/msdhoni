@@ -1,1 +1,5 @@
-Hi this is the sample git demo
+Hi this is the sample git demo;
+
+
+Hi hello how are you
+Welcome to git tutorial for beginners
